@@ -1,9 +1,8 @@
 import React from 'react';
 import LohImg from '../assets/Wei_Chuen.jpg';
-//import LimImg from '../assets/lim.jpg';
 import YunImg from '../assets/yun.jpg';
 import LumImg from '../assets/lum.jpg';
-import DummyImg from '../assets/board.jpg';
+import JasonImg from '../assets/Jason.jpg';
 
 const Team = () => {
     const members = [
@@ -17,7 +16,7 @@ const Team = () => {
         },
         {
             id: 2,
-            image: DummyImg,
+            image: JasonImg,
             name: 'Lim Jie Shen',
             role: 'Machine Learning Engineer',
             description: 'Specializes in developing scalable deep learning algorithms and deploying robust ML pipelines for enterprise solutions.'

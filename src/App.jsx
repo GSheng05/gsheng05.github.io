@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './component/Navbar';
 import Footer from './component/Footer';
 import Home from './pages/Home';
@@ -9,7 +9,7 @@ import './index.css';
 
 function App() {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
+    <Router>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

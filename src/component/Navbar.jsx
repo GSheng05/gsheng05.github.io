@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai'
 import { Link } from 'react-router-dom';
+import { HashLink } from 'react-router-hash-link';
 import Logo from '../assets/Neuralytic_Logo.png';
 
 const Navbar = () => {
@@ -21,9 +22,9 @@ const Navbar = () => {
                     </Link>
                     <ul className='hidden md:flex whitespace-nowrap'>
                         <li className='p-4 hover:text-[#f97316] cursor-pointer'><Link to="/">Home</Link></li>
-                        <li className='p-4 hover:text-[#f97316] cursor-pointer'><a href='/#about'>About Us</a></li>
-                        <li className='p-4 hover:text-[#f97316] cursor-pointer'><a href='/#services'>Services</a></li>
-                        <li className='p-4 hover:text-[#f97316] cursor-pointer'><a href='/#plans'>Plans</a></li>
+                        <li className='p-4 hover:text-[#f97316] cursor-pointer'><HashLink smooth to="/#about">About Us</HashLink></li>
+                        <li className='p-4 hover:text-[#f97316] cursor-pointer'><HashLink smooth to="/#services">Services</HashLink></li>
+                        <li className='p-4 hover:text-[#f97316] cursor-pointer'><HashLink smooth to="/#plans">Plans</HashLink></li>
                         <li className='p-4 hover:text-[#f97316] cursor-pointer'><Link to="/team">Team</Link></li>
                         <li className='p-4 hover:text-[#f97316] cursor-pointer'><Link to="/contact">Contact</Link></li>
                     </ul>
@@ -49,9 +50,9 @@ const Navbar = () => {
                 </div>
                 <ul className='uppercase p-4'>
                     <li className='p-4 border-b border-gray-300'><Link onClick={handleNav} to="/">Home</Link></li>
-                    <li className='p-4 border-b border-gray-300'><a onClick={handleNav} href='/#about'>About Us</a></li>
-                    <li className='p-4 border-b border-gray-300'><a onClick={handleNav} href='/#services'>Services</a></li>
-                    <li className='p-4 border-b border-gray-300'><a onClick={handleNav} href='/#plans'>Plans</a></li>
+                    <li className='p-4 border-b border-gray-300'><HashLink onClick={handleNav} smooth to="/#about">About Us</HashLink></li>
+                    <li className='p-4 border-b border-gray-300'><HashLink onClick={handleNav} smooth to="/#services">Services</HashLink></li>
+                    <li className='p-4 border-b border-gray-300'><HashLink onClick={handleNav} smooth to="/#plans">Plans</HashLink></li>
                     <li className='p-4 border-b border-gray-300'><Link onClick={handleNav} to="/team">Team</Link></li>
                     <li className='p-4'><Link onClick={handleNav} to="/contact">Contact</Link></li>
                 </ul>

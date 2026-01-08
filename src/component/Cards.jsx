@@ -2,6 +2,7 @@ import React from 'react'
 import Single from '../assets/single.png'
 import Double from '../assets/double.png'
 import Triple from '../assets/triple.png'
+import { Link } from 'react-router-dom';
 
 const Cards = () => {
     return (
@@ -35,7 +36,7 @@ const Cards = () => {
                         <p className='py-2 border-b border-gray-300 mx-8 '>Dedicated Team</p>
                         <p className='py-2 border-b border-gray-300 mx-8 '>24/7 Support</p>
                     </div>
-                    <button className='bg-[#f97316] w-[200px] rounded-md font-medium mx-auto my-6 px-6 py-3 text-black'>Contact Us</button>
+                    <Link to="/contact" className='bg-[#f97316] w-[200px] rounded-md font-medium mx-auto my-6 px-6 py-3 text-black block text-center'>Contact Us</Link>
                 </div>
             </div>
         </div>

@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import HeroBg from '../assets/hero_bg.png';
 import CompanyVideo from '../assets/Company Video.mp4';
 import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
+import { HashLink } from 'react-router-hash-link';
 
 const Hero = () => {
   // State 0: Video, 1: Static
@@ -87,7 +88,7 @@ const Hero = () => {
           <p className='md:text-2xl text-xs font-bold text-gray-600 hidden sm:block'>
             We help businesses transform raw data into actionable strategies through advanced analytics and machine learning.
           </p>
-          <button className='bg-[#f97316] w-[140px] md:w-[200px] rounded-md font-medium mx-auto my-2 md:my-6 px-3 py-1 md:px-6 md:py-3 text-sm md:text-base text-black hover:bg-[#c2410c] transition-colors duration-300'>Get Started</button>
+          <HashLink smooth to="/#services" className='bg-[#f97316] w-[140px] md:w-[200px] rounded-md font-medium mx-auto my-2 md:my-6 px-3 py-1 md:px-6 md:py-3 text-sm md:text-base text-black hover:bg-[#c2410c] transition-colors duration-300 block pt-2 md:pt-3 text-center'>Get Started</HashLink>
         </div>
       </div>
 

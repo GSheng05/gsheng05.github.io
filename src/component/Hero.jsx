@@ -48,25 +48,25 @@ const Hero = () => {
   }, [currentSlide]);
 
   return (
-    <div id='home' className='relative w-full aspect-video md:aspect-auto md:h-screen bg-black overflow-hidden group'>
+    <div id='home' className='relative w-full aspect-video md:aspect-auto md:h-[85vh] bg-black overflow-hidden group'>
       {/* Slide 0: Video */}
       <div
         className={`absolute top-0 left-0 w-full h-full transition-opacity duration-1000 ease-in-out ${currentSlide === 0 ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}
       >
-        <video
-          ref={videoRef}
-          src={CompanyVideo}
-          className='w-full h-full object-cover'
-          autoPlay
-          muted
-          playsInline
-          onEnded={handleVideoEnd}
-        />
-      </div>
+  <video
+    ref={videoRef}
+    src={CompanyVideo}
+    className='w-full h-full object-cover'
+    autoPlay
+    muted
+    playsInline
+    onEnded={handleVideoEnd}
+  />
+      </div >
 
-      {/* Slide 1: Static Content */}
-      <div
-        className={`absolute top-0 left-0 w-full h-full text-black bg-gradient-to-b from-white to-orange-50 transition-opacity duration-1000 ease-in-out ${currentSlide === 1 ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}
+  {/* Slide 1: Static Content */ }
+  < div
+className = {`absolute top-0 left-0 w-full h-full text-black bg-gradient-to-b from-white to-orange-50 transition-opacity duration-1000 ease-in-out ${currentSlide === 1 ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}
       >
         <img
           src={HeroBg}
@@ -90,29 +90,29 @@ const Hero = () => {
           </p>
           <HashLink smooth to="/#services" className='bg-[#f97316] w-[140px] md:w-[200px] rounded-md font-medium mx-auto my-2 md:my-6 px-3 py-1 md:px-6 md:py-3 text-sm md:text-base text-black hover:bg-[#c2410c] transition-colors duration-300 block pt-2 md:pt-3 text-center'>Get Started</HashLink>
         </div>
-      </div>
+      </div >
 
-      {/* Navigation Arrows */}
-      <div className='absolute top-[50%] left-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer hover:bg-black/40 transition-colors z-20 block md:hidden md:group-hover:block' onClick={prevSlide}>
-        <FaChevronLeft size={30} />
-      </div>
-      <div className='absolute top-[50%] right-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer hover:bg-black/40 transition-colors z-20 block md:hidden md:group-hover:block' onClick={nextSlide}>
-        <FaChevronRight size={30} />
-      </div>
+  {/* Navigation Arrows */ }
+  < div className = 'absolute top-[50%] left-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer hover:bg-black/40 transition-colors z-20 block md:hidden md:group-hover:block' onClick = { prevSlide } >
+    <FaChevronLeft size={30} />
+      </div >
+  <div className='absolute top-[50%] right-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer hover:bg-black/40 transition-colors z-20 block md:hidden md:group-hover:block' onClick={nextSlide}>
+    <FaChevronRight size={30} />
+  </div>
 
-      {/* Slide Indicators (Optional but good for UX) */}
-      <div className='absolute bottom-4 left-1/2 transform -translate-x-1/2 flex space-x-2 z-20'>
-        <div
-          onClick={() => setCurrentSlide(0)}
-          className={`h-2 w-2 rounded-full cursor-pointer transition-all ${currentSlide === 0 ? 'bg-[#f97316] w-6' : 'bg-gray-400'}`}
-        ></div>
-        <div
-          onClick={() => setCurrentSlide(1)}
-          className={`h-2 w-2 rounded-full cursor-pointer transition-all ${currentSlide === 1 ? 'bg-[#f97316] w-6' : 'bg-gray-400'}`}
-        ></div>
-      </div>
+{/* Slide Indicators (Optional but good for UX) */ }
+<div className='absolute bottom-4 left-1/2 transform -translate-x-1/2 flex space-x-2 z-20'>
+  <div
+    onClick={() => setCurrentSlide(0)}
+    className={`h-2 w-2 rounded-full cursor-pointer transition-all ${currentSlide === 0 ? 'bg-[#f97316] w-6' : 'bg-gray-400'}`}
+  ></div>
+  <div
+    onClick={() => setCurrentSlide(1)}
+    className={`h-2 w-2 rounded-full cursor-pointer transition-all ${currentSlide === 1 ? 'bg-[#f97316] w-6' : 'bg-gray-400'}`}
+  ></div>
+</div>
 
-    </div>
+    </div >
   )
 }
 

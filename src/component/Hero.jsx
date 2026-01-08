@@ -47,7 +47,7 @@ const Hero = () => {
   }, [currentSlide]);
 
   return (
-    <div id='home' className='relative w-full h-screen bg-black overflow-hidden group'>
+    <div id='home' className='relative w-full aspect-video md:aspect-auto md:h-screen bg-black overflow-hidden group'>
       {/* Slide 0: Video */}
       <div
         className={`absolute top-0 left-0 w-full h-full transition-opacity duration-1000 ease-in-out ${currentSlide === 0 ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}
@@ -55,7 +55,7 @@ const Hero = () => {
         <video
           ref={videoRef}
           src={CompanyVideo}
-          className='w-full h-full object-contain'
+          className='w-full h-full object-cover'
           autoPlay
           muted
           playsInline
@@ -75,27 +75,27 @@ const Hero = () => {
         <div className='absolute top-0 left-0 w-full h-full bg-white/60'></div>
 
         <div className='relative z-10 w-full h-full max-w-[800px] mx-auto flex flex-col justify-center text-center p-4'>
-          <p className='text-[#f97316] font-bold p-2 tracking-widest uppercase text-sm'>Data Analytics & Consulting</p>
-          <h1 className='md:text-7xl sm:text-6xl text-4xl font-extrabold md:py-6 text-gray-800 tracking-tight'>
+          <p className='text-[#f97316] font-bold p-1 md:p-2 tracking-widest uppercase text-[10px] md:text-sm'>Data Analytics & Consulting</p>
+          <h1 className='md:text-7xl sm:text-6xl text-2xl font-extrabold py-2 md:py-6 text-gray-800 tracking-tight'>
             Unlock Data <span className='text-[#f97316]'>Potential.</span>
           </h1>
           <div className='flex justify-center items-center'>
-            <p className='md:text-5xl sm:text-4xl text-xl font-bold py-4'>
+            <p className='md:text-5xl sm:text-4xl text-sm font-bold py-1 md:py-4'>
               Strategic Insights for Growth
             </p>
           </div>
-          <p className='md:text-2xl text-xl font-bold text-gray-600'>
+          <p className='md:text-2xl text-xs font-bold text-gray-600 hidden sm:block'>
             We help businesses transform raw data into actionable strategies through advanced analytics and machine learning.
           </p>
-          <button className='bg-[#f97316] w-[200px] rounded-md font-medium mx-auto my-6 px-6 py-3 text-black hover:bg-[#c2410c] transition-colors duration-300'>Get Started</button>
+          <button className='bg-[#f97316] w-[140px] md:w-[200px] rounded-md font-medium mx-auto my-2 md:my-6 px-3 py-1 md:px-6 md:py-3 text-sm md:text-base text-black hover:bg-[#c2410c] transition-colors duration-300'>Get Started</button>
         </div>
       </div>
 
       {/* Navigation Arrows */}
-      <div className='absolute top-[50%] left-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer hover:bg-black/40 transition-colors z-20 group-hover:block hidden' onClick={prevSlide}>
+      <div className='absolute top-[50%] left-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer hover:bg-black/40 transition-colors z-20 block md:hidden md:group-hover:block' onClick={prevSlide}>
         <FaChevronLeft size={30} />
       </div>
-      <div className='absolute top-[50%] right-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer hover:bg-black/40 transition-colors z-20 group-hover:block hidden' onClick={nextSlide}>
+      <div className='absolute top-[50%] right-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer hover:bg-black/40 transition-colors z-20 block md:hidden md:group-hover:block' onClick={nextSlide}>
         <FaChevronRight size={30} />
       </div>
 

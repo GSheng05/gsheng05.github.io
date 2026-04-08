@@ -10,7 +10,7 @@
         },
         "category": {
             "de": "Tiere",
-            "en": "Animals",
+            "en": "Ani`mals",
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
@@ -205,24 +205,6 @@
             "fr": "\u00c9cole",
             "tr": "Okul",
             "sv": "Skola"
-        },
-        "category": {
-            "de": "Geb\u00e4ude",
-            "en": "Buildings",
-            "es": "Edificios",
-            "fr": "B\u00e2timents",
-            "tr": "Binalar",
-            "sv": "Byggnader"
-        }
-    },
-    {
-        "word": {
-            "de": "Kirche",
-            "en": "Church",
-            "es": "Iglesia",
-            "fr": "\u00c9glise",
-            "tr": "Kilise",
-            "sv": "Kyrka"
         },
         "category": {
             "de": "Geb\u00e4ude",
@@ -433,42 +415,6 @@
     },
     {
         "word": {
-            "de": "Sonne",
-            "en": "Sun",
-            "es": "Sol",
-            "fr": "Soleil",
-            "tr": "G\u00fcne\u015f",
-            "sv": "Sol"
-        },
-        "category": {
-            "de": "Natur",
-            "en": "Nature",
-            "es": "Naturaleza",
-            "fr": "Nature",
-            "tr": "Do\u011fa",
-            "sv": "Natur"
-        }
-    },
-    {
-        "word": {
-            "de": "Mond",
-            "en": "Moon",
-            "es": "Luna",
-            "fr": "Lune",
-            "tr": "Ay",
-            "sv": "M\u00e5ne"
-        },
-        "category": {
-            "de": "Natur",
-            "en": "Nature",
-            "es": "Naturaleza",
-            "fr": "Nature",
-            "tr": "Do\u011fa",
-            "sv": "Natur"
-        }
-    },
-    {
-        "word": {
             "de": "Baum",
             "en": "Tree",
             "es": "\u00c1rbol",
@@ -645,96 +591,6 @@
             "fr": "activit\u00e9",
             "tr": "etkinlik",
             "sv": "Aktivitet"
-        }
-    },
-    {
-        "word": {
-            "de": "Stirn",
-            "en": "forehead",
-            "es": "frente",
-            "fr": "front",
-            "tr": "al\u0131n",
-            "sv": "Panna"
-        },
-        "category": {
-            "de": "K\u00f6rper",
-            "en": "anatomy",
-            "es": "anatom\u00eda",
-            "fr": "anatomie",
-            "tr": "anatomi",
-            "sv": "Anatomi"
-        }
-    },
-    {
-        "word": {
-            "de": "Kniescheibe",
-            "en": "kneecap",
-            "es": "r\u00f3tula",
-            "fr": "rotule",
-            "tr": "diz kapa\u011f\u0131",
-            "sv": "Kn\u00e4sk\u00e5l"
-        },
-        "category": {
-            "de": "K\u00f6rper",
-            "en": "anatomy",
-            "es": "anatom\u00eda",
-            "fr": "anatomie",
-            "tr": "anatomi",
-            "sv": "Anatomi"
-        }
-    },
-    {
-        "word": {
-            "de": "Schnurrbart",
-            "en": "Mustache",
-            "es": "Bigote",
-            "fr": "Moustache",
-            "tr": "b\u0131y\u0131k",
-            "sv": "Mustache"
-        },
-        "category": {
-            "de": "K\u00f6rper",
-            "en": "anatomy",
-            "es": "anatom\u00eda",
-            "fr": "anatomie",
-            "tr": "anatomi",
-            "sv": "Anatomi"
-        }
-    },
-    {
-        "word": {
-            "de": "Schulter",
-            "en": "shoulder",
-            "es": "hombro",
-            "fr": "\u00e9paule",
-            "tr": "omuz",
-            "sv": "Axel"
-        },
-        "category": {
-            "de": "K\u00f6rper",
-            "en": "anatomy",
-            "es": "anatom\u00eda",
-            "fr": "anatomie",
-            "tr": "anatomi",
-            "sv": "Anatomi"
-        }
-    },
-    {
-        "word": {
-            "de": "Magen",
-            "en": "stomach",
-            "es": "est\u00f3mago",
-            "fr": "estomac",
-            "tr": "kar\u0131n",
-            "sv": "Magen"
-        },
-        "category": {
-            "de": "K\u00f6rper",
-            "en": "anatomy",
-            "es": "anatom\u00eda",
-            "fr": "anatomie",
-            "tr": "anatomi",
-            "sv": "Anatomi"
         }
     },
     {
@@ -1027,149 +883,6 @@
     },
     {
         "word": {
-            "de": "Asteroid",
-            "en": "asteroid",
-            "es": "asteroide",
-            "fr": "ast\u00e9ro\u00efde",
-            "tr": "asteroit",
-            "sv": "Astroid"
-        },
-        "category": {
-            "de": "Astronomie",
-            "en": "astronomy",
-            "es": "astronom\u00eda",
-            "fr": "astronomie",
-            "tr": "astronomi",
-            "sv": "Astronomi"
-        }
-    },
-    {
-        "word": {
-            "de": "Wurmloch",
-            "en": "wormhole",
-            "es": "agujero de gusano",
-            "fr": "trou de ver",
-            "tr": "solucan deli\u011fi",
-            "sv": "Maskh\u00e5l"
-        },
-        "category": {
-            "de": "Astronomie",
-            "en": "astronomy",
-            "es": "astronom\u00eda",
-            "fr": "astronomie",
-            "tr": "astronomi",
-            "sv": "Astronomi"
-        }
-    },
-    {
-        "word": {
-            "de": "Schnuller",
-            "en": "pacifier",
-            "es": "chupete",
-            "fr": "sucette",
-            "tr": "emzik",
-            "sv": "Napp"
-        },
-        "category": {
-            "de": "Baby",
-            "en": "baby",
-            "es": "beb\u00e9",
-            "fr": "b\u00e9b\u00e9",
-            "tr": "Bebek",
-            "sv": "Bebis"
-        }
-    },
-    {
-        "word": {
-            "de": "Kinderwagen",
-            "en": "stroller",
-            "es": "paseante",
-            "fr": "poussette",
-            "tr": "bebek arabas\u0131"
-        },
-        "category": {
-            "de": "Baby",
-            "en": "baby",
-            "es": "beb\u00e9",
-            "fr": "b\u00e9b\u00e9",
-            "tr": "Bebek",
-            "sv": "Bebis"
-        }
-    },
-    {
-        "word": {
-            "de": "Limonade",
-            "en": "lemonade",
-            "es": "limonada",
-            "fr": "limonade",
-            "tr": "limonata",
-            "sv": "Lemonad"
-        },
-        "category": {
-            "de": "Getr\u00e4nk",
-            "en": "beverage",
-            "es": "bebida",
-            "fr": "boisson",
-            "tr": "i\u00e7ecek",
-            "sv": "Drycker"
-        }
-    },
-    {
-        "word": {
-            "de": "Facebook",
-            "en": "Facebook",
-            "es": "Facebook",
-            "fr": "Facebook",
-            "tr": "Facebook'ta",
-            "sv": "Facebook"
-        },
-        "category": {
-            "de": "Computing",
-            "en": "computing",
-            "es": "computaci\u00f3n",
-            "fr": "informatique",
-            "tr": "bilgisayar",
-            "sv": "Teknologi"
-        }
-    },
-    {
-        "word": {
-            "de": "Twitter",
-            "en": "Twitter",
-            "es": "Twitter",
-            "fr": "Twitter",
-            "tr": "Twitter",
-            "sv": "Twitter"
-        },
-        "category": {
-            "de": "Computing",
-            "en": "computing",
-            "es": "computaci\u00f3n",
-            "fr": "informatique",
-            "tr": "bilgisayar",
-            "sv": "Teknologi"
-        }
-    },
-    {
-        "word": {
-            "de": "Hausaufgaben",
-            "en": "homework",
-            "es": "tarea",
-            "fr": "devoirs",
-            "tr": "Ev \u00f6devi",
-            "sv": "L\u00e4xor"
-        },
-        "category": {
-            "de": "Ausbildung",
-            "en": "education",
-            "es": "educaci\u00f3n",
-            "fr": "\u00e9ducation",
-            "tr": "e\u011fitim",
-            "sv": "Utbildning"
-        }
-    },
-    {
-        "word": {
             "de": "Lachen",
             "en": "laughing",
             "es": "re\u00edr",
@@ -1314,24 +1027,6 @@
     },
     {
         "word": {
-            "de": "Brezel",
-            "en": "pretzel",
-            "es": "galleta salada",
-            "fr": "bretzel",
-            "tr": "pretzel",
-            "sv": "Kringla"
-        },
-        "category": {
-            "de": "Essen",
-            "en": "Food",
-            "es": "Alimento",
-            "fr": "Nourriture",
-            "tr": "Yiyecek",
-            "sv": "Mat"
-        }
-    },
-    {
-        "word": {
             "de": "K\u00fcrbis",
             "en": "pumpkin",
             "es": "calabaza",
@@ -1382,168 +1077,6 @@
             "fr": "Nourriture",
             "tr": "Yiyecek",
             "sv": "Mat"
-        }
-    },
-    {
-        "word": {
-            "de": "Amerika",
-            "en": "America",
-            "es": "Am\u00e9rica",
-            "fr": "Am\u00e9rique",
-            "tr": "Amerika",
-            "sv": "Amerika"
-        },
-        "category": {
-            "de": "Geographie",
-            "en": "geography",
-            "es": "geograf\u00eda",
-            "fr": "g\u00e9ographie",
-            "tr": "co\u011frafya",
-            "sv": "Geografi"
-        }
-    },
-    {
-        "word": {
-            "de": "England",
-            "en": "England",
-            "es": "Inglaterra",
-            "fr": "Angleterre",
-            "tr": "\u0130ngiltere",
-            "sv": "England"
-        },
-        "category": {
-            "de": "Geographie",
-            "en": "geography",
-            "es": "geograf\u00eda",
-            "fr": "g\u00e9ographie",
-            "tr": "co\u011frafya",
-            "sv": "Geografi"
-        }
-    },
-    {
-        "word": {
-            "de": "Finnland",
-            "en": "Finland",
-            "es": "Finlandia",
-            "fr": "Finlande",
-            "tr": "Finlandiya",
-            "sv": "Finland"
-        },
-        "category": {
-            "de": "Geographie",
-            "en": "geography",
-            "es": "geograf\u00eda",
-            "fr": "g\u00e9ographie",
-            "tr": "co\u011frafya",
-            "sv": "Geografi"
-        }
-    },
-    {
-        "word": {
-            "de": "Deutschland",
-            "en": "germany",
-            "es": "Alemania",
-            "fr": "Allemagne",
-            "tr": "Almanya",
-            "sv": "Tyskland"
-        },
-        "category": {
-            "de": "Geographie",
-            "en": "geography",
-            "es": "geograf\u00eda",
-            "fr": "g\u00e9ographie",
-            "tr": "co\u011frafya",
-            "sv": "Geografi"
-        }
-    },
-    {
-        "word": {
-            "de": "Holland",
-            "en": "holland",
-            "es": "Holanda",
-            "fr": "Hollande",
-            "tr": "hollanda",
-            "sv": "Holland"
-        },
-        "category": {
-            "de": "Geographie",
-            "en": "geography",
-            "es": "geograf\u00eda",
-            "fr": "g\u00e9ographie",
-            "tr": "co\u011frafya",
-            "sv": "Geografi"
-        }
-    },
-    {
-        "word": {
-            "de": "Jamaika",
-            "en": "Jamaica",
-            "es": "Jamaica",
-            "fr": "Jama\u00efque",
-            "tr": "Jamaika",
-            "sv": "Jamaika"
-        },
-        "category": {
-            "de": "Geographie",
-            "en": "geography",
-            "es": "geograf\u00eda",
-            "fr": "g\u00e9ographie",
-            "tr": "co\u011frafya",
-            "sv": "Geografi"
-        }
-    },
-    {
-        "word": {
-            "de": "New York",
-            "en": "newyork",
-            "es": "Nueva York",
-            "fr": "New York",
-            "tr": "New York",
-            "sv": "New York"
-        },
-        "category": {
-            "de": "Geographie",
-            "en": "geography",
-            "es": "geograf\u00eda",
-            "fr": "g\u00e9ographie",
-            "tr": "co\u011frafya",
-            "sv": "Geografi"
-        }
-    },
-    {
-        "word": {
-            "de": "Berg",
-            "en": "mountain",
-            "es": "monta\u00f1a",
-            "fr": "montagne",
-            "tr": "da\u011f",
-            "sv": "Berg"
-        },
-        "category": {
-            "de": "Geologie",
-            "en": "geology",
-            "es": "geolog\u00eda",
-            "fr": "g\u00e9ologie",
-            "tr": "jeoloji",
-            "sv": "Geologi"
-        }
-    },
-    {
-        "word": {
-            "de": "Vulkan",
-            "en": "volcano",
-            "es": "volc\u00e1n",
-            "fr": "volcan",
-            "tr": "yanarda\u011f",
-            "sv": "Vulkan"
-        },
-        "category": {
-            "de": "Geologie",
-            "en": "geology",
-            "es": "geolog\u00eda",
-            "fr": "g\u00e9ologie",
-            "tr": "jeoloji",
-            "sv": "Geologi"
         }
     },
     {
@@ -1944,24 +1477,6 @@
     },
     {
         "word": {
-            "de": "Olympia",
-            "en": "olympics",
-            "es": "Juegos Ol\u00edmpicos",
-            "fr": "Jeux olympiques",
-            "tr": "olimpiyatlar",
-            "sv": "Olympiska spelen"
-        },
-        "category": {
-            "de": "Sport",
-            "en": "sports",
-            "es": "deportes",
-            "fr": "sportif",
-            "tr": "spor",
-            "sv": "Sport"
-        }
-    },
-    {
-        "word": {
             "de": "Schwimmen",
             "en": "swimming",
             "es": "nadar",
@@ -1976,636 +1491,6 @@
             "fr": "sportif",
             "tr": "spor",
             "sv": "Sport"
-        }
-    },
-    {
-        "word": {
-            "de": "Kettens\u00e4ge",
-            "en": "chainsaw",
-            "es": "motosierra",
-            "fr": "tron\u00e7onneuse",
-            "tr": "motorlu testere",
-            "sv": "Motors\u00e5g"
-        },
-        "category": {
-            "de": "Werkzeug",
-            "en": "tool",
-            "es": "herramienta",
-            "fr": "outil",
-            "tr": "alet",
-            "sv": "Verktyg"
-        }
-    },
-    {
-        "word": {
-            "de": "Brecheisen",
-            "en": "crowbar",
-            "es": "palanca",
-            "fr": "pied de biche",
-            "tr": "kazaya\u011f\u0131",
-            "sv": "Kofot"
-        },
-        "category": {
-            "de": "Werkzeug",
-            "en": "tool",
-            "es": "herramienta",
-            "fr": "outil",
-            "tr": "alet",
-            "sv": "Verktyg"
-        }
-    },
-    {
-        "word": {
-            "de": "Schaufel",
-            "en": "dustpan",
-            "es": "recogedor",
-            "fr": "pelle \u00e0 poussi\u00e8re",
-            "tr": "fara\u015f",
-            "sv": "Sopskyffel"
-        },
-        "category": {
-            "de": "Werkzeug",
-            "en": "tool",
-            "es": "herramienta",
-            "fr": "outil",
-            "tr": "alet",
-            "sv": "Verktyg"
-        }
-    },
-    {
-        "word": {
-            "de": "Schere",
-            "en": "scissors",
-            "es": "tijeras",
-            "fr": "ciseaux",
-            "tr": "makas",
-            "sv": "Saxar"
-        },
-        "category": {
-            "de": "Werkzeug",
-            "en": "tool",
-            "es": "herramienta",
-            "fr": "outil",
-            "tr": "alet",
-            "sv": "Verktyg"
-        }
-    },
-    {
-        "word": {
-            "de": "Pinzette",
-            "en": "tweezers",
-            "es": "pinzas",
-            "fr": "pince \u00e0 \u00e9piler",
-            "tr": "c\u0131mb\u0131z",
-            "sv": "Pincett"
-        },
-        "category": {
-            "de": "Werkzeug",
-            "en": "tool",
-            "es": "herramienta",
-            "fr": "outil",
-            "tr": "alet",
-            "sv": "Verktyg"
-        }
-    },
-    {
-        "word": {
-            "de": "Schaukel",
-            "en": "swingset",
-            "es": "columpio",
-            "fr": "balan\u00e7oire",
-            "tr": "sal\u0131ncak seti",
-            "sv": "Gunga"
-        },
-        "category": {
-            "de": "Spielzeug",
-            "en": "toy",
-            "es": "juguete",
-            "fr": "jouet",
-            "tr": "oyuncak",
-            "sv": "Leksak"
-        }
-    },
-    {
-        "word": {
-            "de": "Fahrrad",
-            "en": "bicycle",
-            "es": "bicicleta",
-            "fr": "v\u00e9lo",
-            "tr": "bisiklet",
-            "sv": "Cykel"
-        },
-        "category": {
-            "de": "Fahrzeug",
-            "en": "vehicle",
-            "es": "veh\u00edculo",
-            "fr": "v\u00e9hicule",
-            "tr": "ara\u00e7",
-            "sv": "Fordon"
-        }
-    },
-    {
-        "word": {
-            "de": "Gabelstapler",
-            "en": "forklift",
-            "es": "m\u00e1quina elevadora",
-            "fr": "chariot \u00e9l\u00e9vateur",
-            "tr": "forklift",
-            "sv": "Gaffeltruck"
-        },
-        "category": {
-            "de": "Fahrzeug",
-            "en": "vehicle",
-            "es": "veh\u00edculo",
-            "fr": "v\u00e9hicule",
-            "tr": "ara\u00e7",
-            "sv": "Fordon"
-        }
-    },
-    {
-        "word": {
-            "de": "Segelboot",
-            "en": "sailboat",
-            "es": "velero",
-            "fr": "voilier",
-            "tr": "yelkenli",
-            "sv": "Segelb\u00e5t"
-        },
-        "category": {
-            "de": "Fahrzeug",
-            "en": "vehicle",
-            "es": "veh\u00edculo",
-            "fr": "v\u00e9hicule",
-            "tr": "ara\u00e7",
-            "sv": "Fordon"
-        }
-    },
-    {
-        "word": {
-            "de": "Abschleppwagen",
-            "en": "towtruck",
-            "es": "cami\u00f3n de remolque",
-            "fr": "d\u00e9panneuse",
-            "tr": "\u00e7ekici",
-            "sv": "Bogseringsbil"
-        },
-        "category": {
-            "de": "Fahrzeug",
-            "en": "vehicle",
-            "es": "veh\u00edculo",
-            "fr": "v\u00e9hicule",
-            "tr": "ara\u00e7",
-            "sv": "Fordon"
-        }
-    },
-    {
-        "word": {
-            "de": "Traktor",
-            "en": "Tractor",
-            "es": "Tractor",
-            "fr": "Tracteur",
-            "tr": "Trakt\u00f6r",
-            "sv": "Traktor"
-        },
-        "category": {
-            "de": "Fahrzeug",
-            "en": "vehicle",
-            "es": "veh\u00edculo",
-            "fr": "v\u00e9hicule",
-            "tr": "ara\u00e7",
-            "sv": "Fordon"
-        }
-    },
-    {
-        "word": {
-            "de": "Schneesturm",
-            "en": "blizzard",
-            "es": "ventisca",
-            "fr": "blizzard",
-            "tr": "tipi",
-            "sv": "Sn\u00f6storm"
-        },
-        "category": {
-            "de": "Wetter",
-            "en": "weather",
-            "es": "clima",
-            "fr": "m\u00e9t\u00e9o",
-            "tr": "hava durumu",
-            "sv": "V\u00e4der"
-        }
-    },
-    {
-        "word": {
-            "de": "Tornado",
-            "en": "tornado",
-            "es": "tornado",
-            "fr": "tornade",
-            "tr": "kas\u0131rga",
-            "sv": "Tornado"
-        },
-        "category": {
-            "de": "Wetter",
-            "en": "weather",
-            "es": "clima",
-            "fr": "m\u00e9t\u00e9o",
-            "tr": "hava durumu",
-            "sv": "V\u00e4der"
-        }
-    },
-    {
-        "word": {
-            "de": "Schwimmen",
-            "en": "swimming",
-            "es": "nadar",
-            "fr": "natation",
-            "tr": "y\u00fczme",
-            "sv": "Simning"
-        },
-        "category": {
-            "de": "Aktivit\u00e4t",
-            "en": "activity",
-            "es": "actividad",
-            "fr": "activit\u00e9",
-            "tr": "etkinlik",
-            "sv": "Aktivitet"
-        }
-    },
-    {
-        "word": {
-            "de": "Wandern",
-            "en": "hiking",
-            "es": "senderismo",
-            "fr": "randonn\u00e9e",
-            "tr": "do\u011fa y\u00fcr\u00fcy\u00fc\u015f\u00fc",
-            "sv": "Vandring"
-        },
-        "category": {
-            "de": "Aktivit\u00e4t",
-            "en": "activity",
-            "es": "actividad",
-            "fr": "activit\u00e9",
-            "tr": "etkinlik",
-            "sv": "Aktivitet"
-        }
-    },
-    {
-        "word": {
-            "de": "Tanzen",
-            "en": "dancing",
-            "es": "baile",
-            "fr": "dansant",
-            "tr": "dans",
-            "sv": "Dans"
-        },
-        "category": {
-            "de": "Aktivit\u00e4t",
-            "en": "activity",
-            "es": "actividad",
-            "fr": "activit\u00e9",
-            "tr": "etkinlik",
-            "sv": "Aktivitet"
-        }
-    },
-    {
-        "word": {
-            "de": "Lesen",
-            "en": "reading",
-            "es": "lectura",
-            "fr": "en lisant",
-            "tr": "okuma",
-            "sv": "L\u00e4sa"
-        },
-        "category": {
-            "de": "Aktivit\u00e4t",
-            "en": "activity",
-            "es": "actividad",
-            "fr": "activit\u00e9",
-            "tr": "etkinlik",
-            "sv": "Aktivitet"
-        }
-    },
-    {
-        "word": {
-            "de": "Klettern",
-            "en": "climbing",
-            "es": "escalada",
-            "fr": "escalade",
-            "tr": "t\u0131rmanma",
-            "sv": "Kl\u00e4ttra"
-        },
-        "category": {
-            "de": "Aktivit\u00e4t",
-            "en": "activity",
-            "es": "actividad",
-            "fr": "activit\u00e9",
-            "tr": "etkinlik",
-            "sv": "Aktivitet"
-        }
-    },
-    {
-        "word": {
-            "de": "Baukl\u00f6tze",
-            "en": "building blocks",
-            "es": "bloques de construcci\u00f3n",
-            "fr": "blocs de construction",
-            "tr": "yap\u0131 ta\u015flar\u0131",
-            "sv": "Byggklossar"
-        },
-        "category": {
-            "de": "Spielzeug",
-            "en": "toy",
-            "es": "juguete",
-            "fr": "jouet",
-            "tr": "oyuncak",
-            "sv": "Leksak"
-        }
-    },
-    {
-        "word": {
-            "de": "Kuscheltier",
-            "en": "stuffed Animals",
-            "es": "animales rellenos",
-            "fr": "peluches",
-            "tr": "pel\u00fc\u015f hayvanlar",
-            "sv": "Gosedjur"
-        },
-        "category": {
-            "de": "Spielzeug",
-            "en": "toy",
-            "es": "juguete",
-            "fr": "jouet",
-            "tr": "oyuncak",
-            "sv": "Leksak"
-        }
-    },
-    {
-        "word": {
-            "de": "Regen",
-            "en": "rain",
-            "es": "lluvia",
-            "fr": "pluie",
-            "tr": "ya\u011fmur",
-            "sv": "Regn"
-        },
-        "category": {
-            "de": "Wetter",
-            "en": "weather",
-            "es": "clima",
-            "fr": "m\u00e9t\u00e9o",
-            "tr": "hava durumu",
-            "sv": "V\u00e4der"
-        }
-    },
-    {
-        "word": {
-            "de": "Sonnenschein",
-            "en": "sunshine",
-            "es": "luz solar",
-            "fr": "soleil",
-            "tr": "g\u00fcne\u015f \u0131\u015f\u0131\u011f\u0131",
-            "sv": "Solsken"
-        },
-        "category": {
-            "de": "Wetter",
-            "en": "weather",
-            "es": "clima",
-            "fr": "m\u00e9t\u00e9o",
-            "tr": "hava durumu",
-            "sv": "V\u00e4der"
-        }
-    },
-    {
-        "word": {
-            "de": "Schnee",
-            "en": "snow",
-            "es": "nieve",
-            "fr": "neige",
-            "tr": "kar",
-            "sv": "Sn\u00f6"
-        },
-        "category": {
-            "de": "Wetter",
-            "en": "weather",
-            "es": "clima",
-            "fr": "m\u00e9t\u00e9o",
-            "tr": "hava durumu",
-            "sv": "V\u00e4der"
-        }
-    },
-    {
-        "word": {
-            "de": "Wind",
-            "en": "wind",
-            "es": "viento",
-            "fr": "vent",
-            "tr": "r\u00fczg\u00e2r",
-            "sv": "Vind"
-        },
-        "category": {
-            "de": "Wetter",
-            "en": "weather",
-            "es": "clima",
-            "fr": "m\u00e9t\u00e9o",
-            "tr": "hava durumu",
-            "sv": "V\u00e4der"
-        }
-    },
-    {
-        "word": {
-            "de": "Nebel",
-            "en": "fog",
-            "es": "niebla",
-            "fr": "brouillard",
-            "tr": "sis",
-            "sv": "Dimma"
-        },
-        "category": {
-            "de": "Wetter",
-            "en": "weather",
-            "es": "clima",
-            "fr": "m\u00e9t\u00e9o",
-            "tr": "hava durumu",
-            "sv": "V\u00e4der"
-        }
-    },
-    {
-        "word": {
-            "de": "Klavier",
-            "en": "Piano",
-            "es": "Piano",
-            "fr": "Piano",
-            "tr": "Piyano",
-            "sv": "Piano"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Gitarre",
-            "en": "Guitar",
-            "es": "Guitarra",
-            "fr": "Guitare",
-            "tr": "Gitar",
-            "sv": "Gitarr"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Trompete",
-            "en": "Trumpet",
-            "es": "Trompeta",
-            "fr": "Trompette",
-            "tr": "Trompet",
-            "sv": "Trumpet"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Geige",
-            "en": "Violin",
-            "es": "Violín",
-            "fr": "Violon",
-            "tr": "Keman",
-            "sv": "Fiol"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Schlagzeug",
-            "en": "Drums",
-            "es": "Batería",
-            "fr": "Batterie",
-            "tr": "Davul",
-            "sv": "Trummor"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Fl\u00f6te",
-            "en": "Flute",
-            "es": "Flauta",
-            "fr": "Flûte",
-            "tr": "Flüt",
-            "sv": "Fl\u00f6jt"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Saxophon",
-            "en": "Saxophone",
-            "es": "Saxofón",
-            "fr": "Saxophone",
-            "tr": "Saksafon",
-            "sv": "Saxofon"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Harfe",
-            "en": "Harp",
-            "es": "Arpa",
-            "fr": "Harpe",
-            "tr": "Arp",
-            "sv": "Harpa"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Akkordeon",
-            "en": "Accordion",
-            "es": "Acordeón",
-            "fr": "Accordéon",
-            "tr": "Akordeon",
-            "sv": "Dragspel"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
-        }
-    },
-    {
-        "word": {
-            "de": "Mundharmonika",
-            "en": "Harmonica",
-            "es": "Armónica",
-            "fr": "Harmonica",
-            "tr": "Mızıka",
-            "sv": "Munspel"
-        },
-        "category": {
-            "de": "Musikinstrumente",
-            "en": "Musical Instruments",
-            "es": "Instrumentos Musicales",
-            "fr": "Instruments de Musique",
-            "tr": "Müzik Aletleri",
-            "sv": "Instrument"
         }
     },
     {
@@ -2772,24 +1657,6 @@
     },
     {
         "word": {
-            "de": "Notizbuch",
-            "en": "Notebook",
-            "es": "Cuaderno",
-            "fr": "Cahier",
-            "tr": "Defter",
-            "sv": "Anteckningsblock"
-        },
-        "category": {
-            "de": "Alltagsgegenst\u00e4nde",
-            "en": "Everyday Items",
-            "es": "Objetos cotidianos",
-            "fr": "Objets du quotidien",
-            "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
-        }
-    },
-    {
-        "word": {
             "de": "Tasche",
             "en": "Bag",
             "es": "Bolsa",
@@ -2880,667 +1747,254 @@
     },
     {
         "word": {
-            "de": "Schach",
+            "de": "Myvi",
+            "en": "Myvi",
+            "es": "Myvi",
+            "fr": "Myvi",
+            "tr": "Myvi",
+            "sv": "Myvi"
+        },
+        "category": {
+            "de": "Malaysia",
+            "en": "Malaysia",
+            "es": "Malaysia",
+            "fr": "Malaysia",
+            "tr": "Malaysia",
+            "sv": "Malaysia"
+        }
+    },
+    {
+        "word": {
+            "de": "Petronas Twin Towers",
+            "en": "Petronas Twin Towers",
+            "es": "Petronas Twin Towers",
+            "fr": "Petronas Twin Towers",
+            "tr": "Petronas Twin Towers",
+            "sv": "Petronas Twin Towers"
+        },
+        "category": {
+            "de": "Malaysia",
+            "en": "Malaysia",
+            "es": "Malaysia",
+            "fr": "Malaysia",
+            "tr": "Malaysia",
+            "sv": "Malaysia"
+        }
+    },
+    {
+        "word": {
+            "de": "Nasi Lemak",
+            "en": "Nasi Lemak",
+            "es": "Nasi Lemak",
+            "fr": "Nasi Lemak",
+            "tr": "Nasi Lemak",
+            "sv": "Nasi Lemak"
+        },
+        "category": {
+            "de": "Malaysia",
+            "en": "Malaysia",
+            "es": "Malaysia",
+            "fr": "Malaysia",
+            "tr": "Malaysia",
+            "sv": "Malaysia"
+        }
+    },
+    {
+        "word": {
+            "de": "Durian",
+            "en": "Durian",
+            "es": "Durian",
+            "fr": "Durian",
+            "tr": "Durian",
+            "sv": "Durian"
+        },
+        "category": {
+            "de": "Malaysia",
+            "en": "Malaysia",
+            "es": "Malaysia",
+            "fr": "Malaysia",
+            "tr": "Malaysia",
+            "sv": "Malaysia"
+        }
+    },
+    {
+        "word": {
+            "de": "Teh Tarik",
+            "en": "Teh Tarik",
+            "es": "Teh Tarik",
+            "fr": "Teh Tarik",
+            "tr": "Teh Tarik",
+            "sv": "Teh Tarik"
+        },
+        "category": {
+            "de": "Malaysia",
+            "en": "Malaysia",
+            "es": "Malaysia",
+            "fr": "Malaysia",
+            "tr": "Malaysia",
+            "sv": "Malaysia"
+        }
+    },
+    {
+        "word": {
+            "de": "XiangQi",
+            "en": "XiangQi",
+            "es": "XiangQi",
+            "fr": "XiangQi",
+            "tr": "XiangQi",
+            "sv": "XiangQi"
+        },
+        "category": {
+            "de": "USMBNC",
+            "en": "USMBNC",
+            "es": "USMBNC",
+            "fr": "USMBNC",
+            "tr": "USMBNC",
+            "sv": "USMBNC"
+        }
+    },
+    {
+        "word": {
+            "de": "Chess",
             "en": "Chess",
-            "es": "Ajedrez",
-            "fr": "Échecs",
-            "tr": "Satranç",
-            "sv": "Schack"
+            "es": "Chess",
+            "fr": "Chess",
+            "tr": "Chess",
+            "sv": "Chess"
         },
         "category": {
-            "de": "Spiele",
-            "en": "Games",
-            "es": "Juegos",
-            "fr": "Jeux",
-            "tr": "Oyunlar",
-            "sv": "Spel"
+            "de": "USMBNC",
+            "en": "USMBNC",
+            "es": "USMBNC",
+            "fr": "USMBNC",
+            "tr": "USMBNC",
+            "sv": "USMBNC"
         }
     },
     {
         "word": {
-            "de": "Monopoly",
-            "en": "Monopoly",
-            "es": "Monopoly",
-            "fr": "Monopoly",
-            "tr": "Monopoly",
-            "sv": "Monopoly"
+            "de": "USMBNC Logo",
+            "en": "USMBNC Logo",
+            "es": "USMBNC Logo",
+            "fr": "USMBNC Logo",
+            "tr": "USMBNC Logo",
+            "sv": "USMBNC Logo"
         },
         "category": {
-            "de": "Spiele",
-            "en": "Games",
-            "es": "Juegos",
-            "fr": "Jeux",
-            "tr": "Oyunlar",
-            "sv": "Spel"
+            "de": "USMBNC",
+            "en": "USMBNC",
+            "es": "USMBNC",
+            "fr": "USMBNC",
+            "tr": "USMBNC",
+            "sv": "USMBNC"
         }
     },
     {
         "word": {
-            "de": "Kartenspiel",
-            "en": "Card Game",
-            "es": "Juego de Cartas",
-            "fr": "Jeu de Cartes",
-            "tr": "Kart Oyunu",
-            "sv": "Kortspel"
+            "de": "Board Game",
+            "en": "Board Game",
+            "es": "Board Game",
+            "fr": "Board Game",
+            "tr": "Board Game",
+            "sv": "Board Game"
         },
         "category": {
-            "de": "Spiele",
-            "en": "Games",
-            "es": "Juegos",
-            "fr": "Jeux",
-            "tr": "Oyunlar",
-            "sv": "Spel"
+            "de": "USMBNC",
+            "en": "USMBNC",
+            "es": "USMBNC",
+            "fr": "USMBNC",
+            "tr": "USMBNC",
+            "sv": "USMBNC"
         }
     },
     {
         "word": {
-            "de": "Scrabble",
-            "en": "Scrabble",
-            "es": "Scrabble",
-            "fr": "Scrabble",
-            "tr": "Scrabble",
-            "sv": "Scrabble"
+            "de": "Uncle Tuck (Our President :)",
+            "en": "Uncle Tuck (Our President :)",
+            "es": "Uncle Tuck (Our President :)",
+            "fr": "Uncle Tuck (Our President :)",
+            "tr": "Uncle Tuck (Our President :)",
+            "sv": "Uncle Tuck (Our President :)"
         },
         "category": {
-            "de": "Spiele",
-            "en": "Games",
-            "es": "Juegos",
-            "fr": "Jeux",
-            "tr": "Oyunlar",
-            "sv": "Spel"
+            "de": "USMBNC",
+            "en": "USMBNC",
+            "es": "USMBNC",
+            "fr": "USMBNC",
+            "tr": "USMBNC",
+            "sv": "USMBNC"
         }
     },
     {
         "word": {
-            "de": "Mensch \u00e4rgere Dich nicht",
-            "en": "Ludo",
-            "es": "Parchís",
-            "fr": "Petits Chevaux",
-            "tr": "Kızma Birader",
-            "sv": "Fia med knuff"
+            "de": "Meghan (Our Lovely Secretary)",
+            "en": "Meghan (Our Lovely Secretary)",
+            "es": "Meghan (Our Lovely Secretary)",
+            "fr": "Meghan (Our Lovely Secretary)",
+            "tr": "Meghan (Our Lovely Secretary)",
+            "sv": "Meghan (Our Lovely Secretary)"
         },
         "category": {
-            "de": "Spiele",
-            "en": "Games",
-            "es": "Juegos",
-            "fr": "Jeux",
-            "tr": "Oyunlar",
-            "sv": "Spel"
+            "de": "USMBNC",
+            "en": "USMBNC",
+            "es": "USMBNC",
+            "fr": "USMBNC",
+            "tr": "USMBNC",
+            "sv": "USMBNC"
+        }
+    },
+     {
+        "word": {
+            "de": "Bukit Cinta <3",
+            "en": "Bukit Cinta <3",
+            "es": "Bukit Cinta <3",
+            "fr": "Bukit Cinta <3",
+            "tr": "Bukit Cinta <3",
+            "sv": "Bukit Cinta <3"
+        },
+        "category": {
+            "de": "USM Landmarks",
+            "en": "USM Landmarks",
+            "es": "USM Landmarks",
+            "fr": "USM Landmarks",
+            "tr": "USM Landmarks",
+            "sv": "USM Landmarks"
         }
     },
     {
         "word": {
-            "de": "Tic Tac Toe",
-            "en": "Tic Tac Toe",
-            "es": "Tres en Raya",
-            "fr": "Morpion",
-            "tr": "SOS Oyunu",
-            "sv": "Tic Tac Toe"
+            "de": "Subaidah",
+            "en": "Subaidah",
+            "es": "Subaidah",
+            "fr": "Subaidah",
+            "tr": "Subaidah",
+            "sv": "Subaidah"
         },
         "category": {
-            "de": "Spiele",
-            "en": "Games",
-            "es": "Juegos",
-            "fr": "Jeux",
-            "tr": "Oyunlar",
-            "sv": "Spel"
+            "de": "USM People",
+            "en": "USM People",
+            "es": "USM People",
+            "fr": "USM People",
+            "tr": "USM People",
+            "sv": "USM People"
         }
     },
     {
         "word": {
-            "de": "Puzzle",
-            "en": "Puzzle",
-            "es": "Rompecabezas",
-            "fr": "Puzzle",
-            "tr": "Yapboz",
-            "sv": "Pussel"
+            "de": "Tasik Biawak",
+            "en": "Tasik Biawak",
+            "es": "Tasik Biawak",
+            "fr": "Tasik Biawak",
+            "tr": "Tasik Biawak",
+            "sv": "Tasik Biawak"
         },
         "category": {
-            "de": "Spiele",
-            "en": "Games",
-            "es": "Juegos",
-            "fr": "Jeux",
-            "tr": "Oyunlar",
-            "sv": "Spel"
-        }
-    },
-    {
-        "word": {
-            "de": "Memory",
-            "en": "Memory",
-            "es": "Memoria",
-            "fr": "Mémoire",
-            "tr": "Hafıza Oyunu",
-            "sv": "Memory"
-        },
-        "category": {
-            "de": "Spiele",
-            "en": "Games",
-            "es": "Juegos",
-            "fr": "Jeux",
-            "tr": "Oyunlar",
-            "sv": "Spel"
-        }
-    },
-    {
-        "word": {
-            "de": "Achterbahn",
-            "en": "Roller Coaster",
-            "es": "Montaña Rusa",
-            "fr": "Montagnes Russes",
-            "tr": "Hız Treni",
-            "sv": "Bergochdalbana"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Karussell",
-            "en": "Carousel",
-            "es": "Carrusel",
-            "fr": "Carrousel",
-            "tr": "Atlı Karınca",
-            "sv": "Karusell"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Riesenrad",
-            "en": "Ferris Wheel",
-            "es": "Noria",
-            "fr": "Grande Roue",
-            "tr": "D\u00f6nme Dolap",
-            "sv": "Parisehjul"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Wasserbahn",
-            "en": "Log Flume",
-            "es": "Montaña Acuática",
-            "fr": "Bûches",
-            "tr": "Su Kaydırağı",
-            "sv": "Log Flume"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Geisterbahn",
-            "en": "Haunted House",
-            "es": "Casa Embrujada",
-            "fr": "Maison Hantée",
-            "tr": "Korku Evi",
-            "sv": "Sp\u00f6khus"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Autoscooter",
-            "en": "Bumper Cars",
-            "es": "Coches de Choque",
-            "fr": "Auto-Tamponneuses",
-            "tr": "Çarpışan Arabalar",
-            "sv": "Radiobilar"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Freifallturm",
-            "en": "Drop Tower",
-            "es": "Torre de Caída",
-            "fr": "Tour de Chute",
-            "tr": "Serbest Düşüş Kulesi",
-            "sv": "Fritt fall"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Zuckerwatte",
-            "en": "Cotton Candy",
-            "es": "Algodón de Azúcar",
-            "fr": "Barbe à Papa",
-            "tr": "Pamuk Şeker",
-            "sv": "Sockervadd"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Dosenwerfen",
-            "en": "Can Toss",
-            "es": "Tiro al Blanco",
-            "fr": "Lancer de Boîtes",
-            "tr": "Teneke Atma",
-            "sv": "Burkkast"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Looping",
-            "en": "Loop",
-            "es": "Looping",
-            "fr": "Looping",
-            "tr": "D\u00f6nüş",
-            "sv": "Loop"
-        },
-        "category": {
-            "de": "Freizeitpark",
-            "en": "Amusement Park",
-            "es": "Parque de Atracciones",
-            "fr": "Parc d'Attractions",
-            "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
-        }
-    },
-    {
-        "word": {
-            "de": "Feuerwerk",
-            "en": "Fireworks",
-            "es": "Fuegos artificiales",
-            "fr": "Feux d'artifice",
-            "tr": "Havai fişek",
-            "sv": "Fyrverkerier"
-        },
-        "category": {
-            "de": "Silvester",
-            "en": "New Year's Eve",
-            "es": "Año Nuevo",
-            "fr": "Réveillon",
-            "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
-        }
-    },
-    {
-        "word": {
-            "de": "Sekt",
-            "en": "Champagne",
-            "es": "Champán",
-            "fr": "Champagne",
-            "tr": "Şampanya",
-            "sv": "Champagne"
-        },
-        "category": {
-            "de": "Silvester",
-            "en": "New Year's Eve",
-            "es": "Año Nuevo",
-            "fr": "Réveillon",
-            "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
-        }
-    },
-    {
-        "word": {
-            "de": "Bleigießen",
-            "en": "Lead Pouring",
-            "es": "Fundir plomo",
-            "fr": "Tirage de plomb",
-            "tr": "Kurşun d\u00f6kme",
-            "sv": "Blyh\u00e4ll"
-        },
-        "category": {
-            "de": "Silvester",
-            "en": "New Year's Eve",
-            "es": "Año Nuevo",
-            "fr": "Réveillon",
-            "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
-        }
-    },
-    {
-        "word": {
-            "de": "Mitternacht",
-            "en": "Midnight",
-            "es": "Medianoche",
-            "fr": "Minuit",
-            "tr": "Gece yarısı",
-            "sv": "Midnatt"
-        },
-        "category": {
-            "de": "Silvester",
-            "en": "New Year's Eve",
-            "es": "Año Nuevo",
-            "fr": "Réveillon",
-            "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
-        }
-    },
-    {
-        "word": {
-            "de": "Glücksklee",
-            "en": "Lucky Clover",
-            "es": "Trébol de la suerte",
-            "fr": "Trèfle porte-bonheur",
-            "tr": "Şans yoncası",
-            "sv": "Turkl\u00f6ver"
-        },
-        "category": {
-            "de": "Silvester",
-            "en": "New Year's Eve",
-            "es": "Año Nuevo",
-            "fr": "Réveillon",
-            "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
-        }
-    },
-    {
-        "word": {
-            "de": "Wunderkerze",
-            "en": "Sparkler",
-            "es": "Bengala",
-            "fr": "Cierge magique",
-            "tr": "Maytap",
-            "sv": "Tomtebloss"
-        },
-        "category": {
-            "de": "Silvester",
-            "en": "New Year's Eve",
-            "es": "Año Nuevo",
-            "fr": "Réveillon",
-            "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
-        }
-    },
-    {
-        "word": {
-            "de": "Strand",
-            "en": "Beach",
-            "es": "Playa",
-            "fr": "Plage",
-            "tr": "Plaj",
-            "sv": "Strand"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Hotel",
-            "en": "Hotel",
-            "es": "Hotel",
-            "fr": "Hôtel",
-            "tr": "Otel",
-            "sv": "Hotell"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Koffer",
-            "en": "Suitcase",
-            "es": "Maleta",
-            "fr": "Valise",
-            "tr": "Bavul",
-            "sv": "Resv\u00e4ska"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Flughafen",
-            "en": "Airport",
-            "es": "Aeropuerto",
-            "fr": "Aéroport",
-            "tr": "Havalimanı",
-            "sv": "Flygplats"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Sonnencreme",
-            "en": "Sunscreen",
-            "es": "Protector solar",
-            "fr": "Crème solaire",
-            "tr": "Güneş kremi",
-            "sv": "Solkr\u00e4m"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Pool",
-            "en": "Swimming Pool",
-            "es": "Piscina",
-            "fr": "Piscine",
-            "tr": "Yüzme havuzu",
-            "sv": "Pool"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Postkarte",
-            "en": "Postcard",
-            "es": "Postal",
-            "fr": "Carte postale",
-            "tr": "Kartpostal",
-            "sv": "Vykort"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Sand",
-            "en": "Sand",
-            "es": "Arena",
-            "fr": "Sable",
-            "tr": "Kum",
-            "sv": "Sand"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Sonnenschirm",
-            "en": "Parasol",
-            "es": "Sombrilla",
-            "fr": "Parasol",
-            "tr": "Güneş şemsiyesi",
-            "sv": "Parasoll"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Cocktail",
-            "en": "Cocktail",
-            "es": "Cóctel",
-            "fr": "Cocktail",
-            "tr": "Kokteyl",
-            "sv": "Cocktail"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Badehose",
-            "en": "Swim Trunks",
-            "es": "Bañador",
-            "fr": "Short de bain",
-            "tr": "Mayo",
-            "sv": "Badbyxor"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Sonnenbrille",
-            "en": "Sunglasses",
-            "es": "Gafas de sol",
-            "fr": "Lunettes de soleil",
-            "tr": "Güneş g\u00f6zlüğü",
-            "sv": "Solglas\u00f6gon"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil",
-            "sv": "Semester"
-        }
-    },
-    {
-        "word": {
-            "de": "Meer",
-            "en": "Sea",
-            "es": "Mar",
-            "fr": "Mer",
-            "tr": "Deniz",
-            "sv": "Havet"
-        },
-        "category": {
-            "de": "Urlaub",
-            "en": "Vacation",
-            "es": "Vacaciones",
-            "fr": "Vacances",
-            "tr": "Tatil"
+            "de": "USM Landmarks",
+            "en": "USM Landmarks",
+            "es": "USM Landmarks",
+            "fr": "USM Landmarks",
+            "tr": "USM Landmarks",
+            "sv": "USM Landmarks"
         }
     }
 ]
